@@ -2,8 +2,8 @@
 <?php
 
 $host = 'localhost';
-$user = 'admin';
-$password = 'admin';
+$user = 'root';
+$password = '';
 $database = 'restaurants';
 $conn = mysqli_connect($host, $user, $password, $database);
 // $conn = konekcija sa bazom
