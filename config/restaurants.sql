@@ -66,7 +66,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `email`, `username`, `password`, `nationality`) VALUES
-(1, 'mn20201043@student.fon.bg.ac.rs', 'marijana', 'marijana', 'Serbia'),
+(1, 'mj20180065@student.fon.bg.ac.rs', 'mina', 'mina', 'Serbia'),
 (2, 'testtest@mail.co.uk', 'dummy', 'dummy123', 'United Kingdom');
 
 --
