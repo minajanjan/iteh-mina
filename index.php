@@ -12,7 +12,7 @@ mysqli_free_result($result);
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include('templates/header.ph'); ?>
+<?php include('templates/header.php'); ?>
  
 <div class="container">
     <div class="row">
